@@ -1,0 +1,11 @@
+@import url('https://earthquake.usgs.gov/fdsnws/event/1/contributors');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background: #F1F2F6;
+}
